@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM alpine:3.14
 
 # Version of RabbitMQ to install
 ENV RABBITMQ_VERSION=3.6.6 \
